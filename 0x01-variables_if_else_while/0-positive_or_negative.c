@@ -6,7 +6,13 @@
 
 
 
-/* betty style doc for function main goes there */
+/* betty style doc for function main goes there *
+ *main - returns random number whether positive,negative or is zero
+ *
+ *
+ *Return: 0
+ *
+ */
 
 int main(void)
 
@@ -17,11 +23,11 @@ int main(void)
    n = rand() - RAND_MAX / 2;
    /* your code goes there */
    if (n > 0)
-	   printf("is positive");
+	   printf("%d is positive\n", n);
    else if (n < 0)
-	   printf("is negative");
+	   printf("%d is negative\n", n);
    else
-	   printf("is zero");
+	   printf("%d is zero\n", n);
 	
 
    return (0);
