@@ -6,12 +6,11 @@
 
 
 
-/* betty style doc for function main goes there *
- *main - returns random number whether positive,negative or is zero
+/*
+ * main - print random number
  *
  *
- *Return: 0
- *
+ * Return: 0
  */
 
 int main(void)
