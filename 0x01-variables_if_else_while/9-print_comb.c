@@ -16,7 +16,7 @@ int main(void)
 		if (ch == '9')
 		{
 			putchar('9');
-		} 
+		}
 		else
 		{
 			putchar(ch);
@@ -24,6 +24,8 @@ int main(void)
 			putchar(' ');
 		}
 	}
+
+	putchar('\n');
 
 	return (0);
 }
