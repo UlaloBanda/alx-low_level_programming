@@ -15,9 +15,12 @@ int main(void)
 		putchar(ch);
 		putchar(',');
 		putchar(' ');
-	}
 
-	putchar('\n');
+		if (ch == '9')
+		{
+			putchar('9');
+		}
+	}
 
 	return (0);
 }
