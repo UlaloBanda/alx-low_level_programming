@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - print numberz
+ * main - print numbers
  *
  * return:0
  */
