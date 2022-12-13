@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
-
 /**
- * main:print numbers
+ * main - print numbers without char type
  *
- * return:0
- */
+ * Return: 0
+*/
 
 int main(void)
 {
