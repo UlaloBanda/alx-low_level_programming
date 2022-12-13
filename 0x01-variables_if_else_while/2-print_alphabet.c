@@ -14,8 +14,7 @@ int ch;
 
 for(ch = 'a'; ch <= 'z'; ch++)
 	putchar(ch);
-
-putchar(32);
+        putchar("\n");
 
  return(0);
  }
