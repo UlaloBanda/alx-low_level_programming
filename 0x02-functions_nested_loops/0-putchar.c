@@ -11,6 +11,5 @@
 int main(void)
 {
 	output();
-	
 	return (0);
 }
