@@ -10,4 +10,5 @@ void output()
 	putchar('h');
 	putchar('a');
 	putchar('r');
+	putchar('\n');
 }
