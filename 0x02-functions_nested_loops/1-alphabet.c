@@ -1,4 +1,6 @@
 #include "main.h"
+
+void print_alphabet(void);
 /**
  *main - print alphabet
  *
